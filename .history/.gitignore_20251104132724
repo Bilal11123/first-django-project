@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+static/
+local_settings.py
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+out/
+
+# pytest / coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Migrations (optional if auto-generated)
+# Uncomment below if you don’t want to version control migrations
+*/migrations/
+
+# Build / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs / dumps
+*.log
+*.out
+*.bak
+*.tmp
+*.pid
+*.seed
+*.manifest
