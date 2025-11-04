@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.history
+
 # Virtual environment
 venv/
 env/
