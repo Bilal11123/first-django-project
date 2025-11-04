@@ -56,7 +56,7 @@ littlelemon/
 
 ```bash
 git clone https://github.com/Bilal11123/first-django-project.git
-cd littlelemon
+cd first-django-project
 ```
 
 ### 2. Create and activate a virtual environment
